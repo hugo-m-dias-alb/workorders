@@ -254,7 +254,7 @@ layout: two-cols-header
 layout: two-cols-header
 ---
 
-# Despoletar Geração ficheiro
+# Geração ficheiro
 
 ::left::
 ## Ações
