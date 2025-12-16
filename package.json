@@ -1,0 +1,19 @@
+{
+  "name": "workorders",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "build2": "slidev build --base ./"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.11.0",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-addon-tldraw": "^0.5.1",
+    "vue": "^3.5.25"
+  }
+}
