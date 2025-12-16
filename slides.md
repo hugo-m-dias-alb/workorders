@@ -6,7 +6,7 @@ duration: 120min
 drawings:
   persist: false
 layout: intro-image-right
-image: '/imgs/dummies.png'
+image: '/public/imgs/dummies.png'
 transition: slide-left
 addons:
   - slidev-addon-tldraw
@@ -148,7 +148,7 @@ layout: two-cols
 
 ---
 layout: image
-image: /imgs/diagram_Estados_invis.png
+image: /public/imgs/diagram_Estados_invis.png
 backgroundSize: contain
 ---
 
@@ -281,7 +281,7 @@ layout: two-cols-header
 
 ---
 layout: image
-image: /imgs/gerarFicheiroWO.jpg
+image: /public/imgs/gerarFicheiroWO.jpg
 backgroundSize: contain
 ---
 
