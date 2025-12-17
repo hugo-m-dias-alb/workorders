@@ -454,3 +454,6 @@ layout: section
     - Ações que despoletam o job automaticamente criam com 2 params: NPU e WO_ID -> NPU é null neste caso
     - UpdateStateWO cria o job com 3 params: NPU, WO_ID, TESTING -> Testing é enviado apenas em casos de DEBUG, este param serve para não ser feito o upload do ficheiro gerado para o ETF nem para enviar notifs
 
+---
+
+# Whiteboard
